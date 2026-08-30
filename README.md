@@ -4,7 +4,7 @@
 
 Nexa is a private real-time messenger built for people, not audiences. One-to-one threads, light presence and typing indicators, read receipts — and private chats that stay private, even from admins.
 
-**Live:** [https://nexa-seven-alpha.vercel.app](https://nexa-seven-alpha.vercel.app)
+**Live:** [nexa-chat-alpha.vercel.app](https://nexa-chat-alpha.vercel.app)
 
 ---
 
