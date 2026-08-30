@@ -1,0 +1,1 @@
+var e=[`harassment`,`hate`,`threats`,`spam`,`scam`,`sexual`,`impersonation`,`other`],t={harassment:`Harassment or bullying`,hate:`Hate or slurs`,threats:`Threats or violence`,spam:`Spam`,scam:`Scam or fraud`,sexual:`Sexual content`,impersonation:`Impersonation`,other:`Something else`};export{t as n,e as t};

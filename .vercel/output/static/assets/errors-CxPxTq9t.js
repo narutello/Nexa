@@ -1,0 +1,1 @@
+var e=class extends Error{status;code;constructor(e,t=400,n=`BAD_REQUEST`){super(e),this.name=`NexaError`,this.status=t,this.code=n}};function t(t){return t instanceof Error&&t.message===`Unauthorized`?`Please sign in to continue.`:t instanceof e||t instanceof Error&&t.message?t.message:`Something went wrong. Try again.`}export{t};

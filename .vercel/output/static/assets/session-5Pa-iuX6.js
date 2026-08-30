@@ -1,0 +1,1 @@
+var e=[{providerId:`grok-google`,idp:`google`,label:`Google`},{providerId:`grok-x`,idp:`twitter`,label:`X`}],t=`grok-auth.bearer-token`;function n(e){if(!(typeof window>`u`)&&!(typeof e!=`string`||!e))try{window.sessionStorage.setItem(t,e)}catch{}}export{e as n,n as t};

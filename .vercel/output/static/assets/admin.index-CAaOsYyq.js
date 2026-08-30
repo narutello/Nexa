@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-NZYk81nU.js";import{t}from"./useNavigate-Dq4mAnrp.js";var n=e(),r=()=>(0,n.jsx)(t,{to:`/admin/reports`});export{r as component};
